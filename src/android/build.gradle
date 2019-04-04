@@ -47,5 +47,5 @@ allprojects {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation 'io.requery:sqlite-android:3.26.0'
+    implementation 'io.requery:sqlite-android:3.23.1'
 }

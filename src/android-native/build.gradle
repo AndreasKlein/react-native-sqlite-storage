@@ -52,5 +52,5 @@ allprojects {
 dependencies {
     implementation 'com.facebook.react:react-native:0.14.+'
     implementation files('libs/sqlite-connector.jar')
-    implementation 'io.requery:sqlite-android:3.26.0'
+    implementation 'io.requery:sqlite-android:3.23.1'
 }
